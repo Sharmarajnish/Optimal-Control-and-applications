@@ -1,0 +1,14 @@
+model "SBO_AMPL.txt";
+solve;
+display A;
+display T;
+display N;
+display u;
+display v;
+display cost;
+display x0;
+display y0;
+display z0;
+display x;
+display y;
+display z;
